@@ -3,7 +3,7 @@
 This API allows users to add schools and retrieve a sorted list of schools based on proximity.
 
 ## Live Preview
-Visit: [school-mgmt-api.netlify.app](https://school-mgmt-api.netlify.app)
+Visit: [School Management API](https://school-management-api-eta.vercel.app/)
 
 ## Features
 - Add new schools with name, address, latitude, and longitude.
